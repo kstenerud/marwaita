@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   version="1"
+   id="svg10"
+   sodipodi:docname="drive-optical.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="695"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.61458333"
+     inkscape:cx="78.380161"
+     inkscape:cy="374.32146"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g819"
+     transform="matrix(11.25,0,0,11.25,-14,-19.625)">
+    <rect
+       id="rect2"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="2"
+       rx="2"
+       y="-44"
+       x="-45"
+       height="40"
+       width="40"
+       style="opacity:0.2" />
+    <rect
+       id="rect4"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="2"
+       rx="2"
+       y="-44"
+       x="-44"
+       height="40"
+       width="40"
+       style="fill:#b5b5b5;fill-opacity:1" />
+    <path
+       id="path6"
+       d="M 6,4 C 4.892,4 4,4.892 4,6 V 7 C 4,5.892 4.892,5 6,5 h 36 c 1.108,0 2,0.892 2,2 V 6 C 44,4.892 43.108,4 42,4 Z"
+       style="opacity:0.2;fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8"
+       d="M 24,10 A 14,14 0 0 0 10,24 14,14 0 0 0 24,38 14,14 0 0 0 38,24 14,14 0 0 0 24,10 Z m 0,9 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z"
+       style="opacity:0.5"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

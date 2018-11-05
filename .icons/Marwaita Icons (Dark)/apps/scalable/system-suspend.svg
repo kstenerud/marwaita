@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384pt"
+   height="384pt"
+   version="1.1"
+   viewBox="0 0 384 384"
+   id="svg52"
+   sodipodi:docname="system-suspend.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
+     id="namedview54"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-6.5084746"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg52" />
+  <defs
+     id="defs38">
+    <filter
+       id="alpha"
+       width="100%"
+       height="100%"
+       x="0%"
+       y="0%"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix2" />
+    </filter>
+    <mask
+       id="mask0">
+      <g
+         filter="url(#alpha)"
+         id="g7">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.2"
+           id="rect5" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip1">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect10" />
+    </clipPath>
+    <g
+       id="surface5"
+       clip-path="url(#clip1)">
+      <path
+         style="fill:rgb(0%,0%,0%)"
+         d="M 359.746094 190.96875 C 357.0625 281.707031 282.78125 353.902344 192 354 C 101.996094 353.9375 28.03125 282.957031 24.265625 193.03125 C 24.152344 194.6875 24.0625 196.34375 24 198 C 24 290.785156 99.214844 366 192 366 C 284.785156 366 360 290.785156 360 198 C 359.964844 195.65625 359.882812 193.308594 359.746094 190.96875 Z M 359.746094 190.96875"
+         id="path13" />
+    </g>
+    <mask
+       id="mask1">
+      <g
+         filter="url(#alpha)"
+         id="g18">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.2"
+           id="rect16" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip2">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect21" />
+    </clipPath>
+    <g
+       id="surface8"
+       clip-path="url(#clip2)">
+      <path
+         style="fill:rgb(0%,0%,0%)"
+         d="M 300 198 C 300 138.351562 251.648438 90 192 90 C 132.351562 90 84 138.351562 84 198 C 84 257.648438 132.351562 306 192 306 C 251.648438 306 300 257.648438 300 198 Z M 276 198 C 276 244.390625 238.390625 282 192 282 C 145.609375 282 108 244.390625 108 198 C 108 151.609375 145.609375 114 192 114 C 238.390625 114 276 151.609375 276 198 Z M 240 198 C 240 191.351562 234.648438 186 228 186 L 156 186 C 149.351562 186 144 191.351562 144 198 C 144 204.648438 149.351562 210 156 210 L 228 210 C 234.648438 210 240 204.648438 240 198 Z M 240 198"
+         id="path24" />
+    </g>
+    <mask
+       id="mask2">
+      <g
+         filter="url(#alpha)"
+         id="g29">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.2"
+           id="rect27" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip3">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect32" />
+    </clipPath>
+    <g
+       id="surface11"
+       clip-path="url(#clip3)">
+      <path
+         style="fill:rgb(100%,100%,100%)"
+         d="M 191.988281 24 C 99.210938 24.007812 24 99.222656 24 192 C 24.027344 192.984375 24.0625 193.96875 24.105469 194.953125 C 25.765625 103.40625 100.425781 30.046875 191.988281 30 L 192 30 C 283.5625 30.074219 358.199219 103.453125 359.835938 195 C 359.894531 194 359.945312 193 359.988281 192 C 359.988281 99.222656 284.777344 24.007812 192 24 Z M 191.988281 24"
+         id="path35" />
+    </g>
+  </defs>
+  <g
+     id="g50">
+    <use
+       mask="url(#mask0)"
+       xlink:href="#surface5"
+       id="use40" />
+    <path
+       style="fill:#3e52d3;fill-opacity:1"
+       d="M 360 192 C 360 284.785156 284.785156 360 192 360 C 99.214844 360 24 284.785156 24 192 C 24 99.214844 99.214844 24 192 24 C 284.785156 24 360 99.214844 360 192 Z M 360 192"
+       id="path42" />
+    <use
+       mask="url(#mask1)"
+       xlink:href="#surface8"
+       id="use44" />
+    <path
+       style="fill:rgb(100%,100%,100%)"
+       d="M 300 192 C 300 132.351562 251.648438 84 192 84 C 132.351562 84 84 132.351562 84 192 C 84 251.648438 132.351562 300 192 300 C 251.648438 300 300 251.648438 300 192 Z M 276 192 C 276 238.390625 238.390625 276 192 276 C 145.609375 276 108 238.390625 108 192 C 108 145.609375 145.609375 108 192 108 C 238.390625 108 276 145.609375 276 192 Z M 240 192 C 240 185.351562 234.648438 180 228 180 L 156 180 C 149.351562 180 144 185.351562 144 192 C 144 198.648438 149.351562 204 156 204 L 228 204 C 234.648438 204 240 198.648438 240 192 Z M 240 192"
+       id="path46" />
+    <use
+       mask="url(#mask2)"
+       xlink:href="#surface11"
+       id="use48" />
+  </g>
+</svg>

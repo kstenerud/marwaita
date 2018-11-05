@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384pt"
+   height="384pt"
+   version="1.1"
+   viewBox="0 0 384 384"
+   id="svg58"
+   sodipodi:docname="gnome-sound-recorder.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata62">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
+     id="namedview60"
+     showgrid="false"
+     inkscape:zoom="0.3637228"
+     inkscape:cx="153.17695"
+     inkscape:cy="62.948955"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg58" />
+  <defs
+     id="defs44">
+    <filter
+       id="alpha"
+       width="100%"
+       height="100%"
+       x="0%"
+       y="0%"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix2" />
+    </filter>
+    <mask
+       id="mask0">
+      <g
+         filter="url(#alpha)"
+         id="g7">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.2"
+           id="rect5" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip1">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect10" />
+    </clipPath>
+    <g
+       id="surface5"
+       clip-path="url(#clip1)">
+      <path
+         style="fill:rgb(0%,0%,0%)"
+         d="M 24.300781 192 C 24.230469 194.003906 23.996094 195.972656 23.996094 198 C 23.996094 291.074219 98.925781 366 191.996094 366 C 285.066406 366 359.992188 291.074219 359.992188 198 C 359.992188 195.976562 359.757812 194.011719 359.6875 192 C 356.519531 282.253906 283.035156 354 191.992188 354 C 100.945312 354 27.460938 282.253906 24.292969 192 Z M 24.300781 192"
+         id="path13" />
+    </g>
+    <mask
+       id="mask1">
+      <g
+         filter="url(#alpha)"
+         id="g18">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.2"
+           id="rect16" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip2">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect21" />
+    </clipPath>
+    <g
+       id="surface8"
+       clip-path="url(#clip2)">
+      <path
+         style="fill:rgb(0%,0%,0%)"
+         d="M 191.996094 102.003906 C 172.050781 102.003906 155.996094 118.058594 155.996094 138.003906 L 155.996094 198 C 155.996094 217.945312 172.050781 234 191.996094 234 C 211.941406 234 227.996094 217.945312 227.996094 198 L 227.996094 138.003906 C 227.996094 118.058594 211.941406 102.003906 191.996094 102.003906 Z M 119.996094 186 L 119.996094 198 C 119.996094 233.636719 145.945312 263.1875 179.996094 268.875 L 179.996094 294 L 203.996094 294 L 203.996094 268.875 C 238.046875 263.1875 263.996094 233.632812 263.996094 198 L 263.996094 186 L 239.996094 186 L 239.996094 198 C 239.996094 224.800781 218.796875 246 191.996094 246 C 165.195312 246 143.996094 224.800781 143.996094 198 L 143.996094 186 Z M 119.996094 186"
+         id="path24" />
+    </g>
+    <clipPath
+       id="clip3">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect27" />
+    </clipPath>
+    <g
+       id="surface11"
+       clip-path="url(#clip3)">
+      <path
+         style="fill:rgb(100%,100%,100%)"
+         d="M 191.996094 96.003906 C 172.050781 96.003906 155.996094 112.058594 155.996094 132.003906 L 155.996094 192 C 155.996094 211.945312 172.050781 228 191.996094 228 C 211.941406 228 227.996094 211.945312 227.996094 192 L 227.996094 132.003906 C 227.996094 112.058594 211.941406 96.003906 191.996094 96.003906 Z M 119.996094 180.003906 L 119.996094 192 C 119.996094 227.636719 145.945312 257.1875 179.996094 262.875 L 179.996094 288 L 203.996094 288 L 203.996094 262.875 C 238.046875 257.1875 263.996094 227.632812 263.996094 192 L 263.996094 180.003906 L 239.996094 180.003906 L 239.996094 192 C 239.996094 218.800781 218.796875 240 191.996094 240 C 165.195312 240 143.996094 218.800781 143.996094 192 L 143.996094 180.003906 Z M 119.996094 180.003906"
+         id="path30" />
+    </g>
+    <mask
+       id="mask2">
+      <g
+         filter="url(#alpha)"
+         id="g35">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.2"
+           id="rect33" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip4">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect38" />
+    </clipPath>
+    <g
+       id="surface14"
+       clip-path="url(#clip4)">
+      <path
+         style="fill:rgb(100%,100%,100%)"
+         d="M 192 24 C 98.929688 24 24 98.929688 24 192 C 24 192.65625 24.058594 193.296875 24.09375 193.945312 C 26.238281 102.769531 100.289062 30 192 30 C 283.710938 30 357.761719 102.769531 359.90625 193.945312 C 359.941406 193.296875 360 192.65625 360 192 C 360 98.929688 285.070312 24 192 24 Z M 192 24"
+         id="path41" />
+    </g>
+  </defs>
+  <g
+     id="g1530"
+     transform="translate(-2e-6,-2.6280555)">
+    <path
+       id="path48-8"
+       d="M 359.99609,198.22516 C 359.99609,105.44391 284.78125,30.22907 192,30.22907 c -92.781244,0 -167.996089,75.21484 -167.996089,167.99609 0,92.78125 75.214845,167.99609 167.996089,167.99609 92.78125,0 167.99609,-75.21484 167.99609,-167.99609 z m 0,0"
+       style="fill:#a10909;fill-opacity:1;stroke-width:0.99999994"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g56">
+      <path
+         id="path48"
+         d="M 360,192.00391 C 360,99.222656 284.78516,24.007812 192.00391,24.007812 99.222656,24.007812 24.007812,99.222656 24.007812,192.00391 24.007812,284.78516 99.222656,360 192.00391,360 284.78516,360 360,284.78516 360,192.00391 Z m 0,0"
+         style="fill:#ee0d0d;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <use
+         id="use50"
+         xlink:href="#surface8"
+         mask="url(#mask1)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use52"
+         xlink:href="#surface11"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path853"
+       d="m 192.00055,23.034861 c -61.70704,0 -115.652352,33.148432 -145.082037,82.578119 -15.019531,25.22656 -23.667969,54.67578 -23.667969,86.17187 0,1.2422 0.01953,2.48438 0.04699,3.72266 0.664049,-30.07031 9.203122,-58.17969 23.621092,-82.39453 C 76.348312,63.683293 130.29362,30.534861 192.00066,30.534861 h 0.29687 v -7.5 z m 0.29687,0 v 7.5 c 24.63281,0.03896 48.01562,5.367182 69.09374,14.894522 2.46874,1.117178 4.90626,2.28905 7.3086,3.519533 28.39454,14.527344 52.13281,36.859375 68.3867,64.164064 14.41018,24.21874 22.95315,52.32422 23.6172,82.38671 0.0273,-1.23435 0.0458,-2.47264 0.0458,-3.71484 0,-31.49219 -8.64844,-60.94141 -23.66407,-86.17187 C 320.8326,78.308291 297.09432,55.97626 268.69978,41.448916 266.29745,40.218455 263.85994,39.046584 261.39119,37.929377 240.31304,28.402049 216.93023,23.073923 192.29742,23.034861 Z m 0,0"
+       style="fill:#ffffff;fill-opacity:0.26492537;fill-rule:evenodd;stroke-width:0.99999994" />
+  </g>
+</svg>

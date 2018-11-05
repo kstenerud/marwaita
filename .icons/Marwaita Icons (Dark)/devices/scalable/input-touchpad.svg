@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384pt"
+   height="384pt"
+   version="1.1"
+   viewBox="0 0 384 384"
+   id="svg50"
+   sodipodi:docname="input-touchpad.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="695"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <defs
+     id="defs38">
+    <filter
+       id="alpha"
+       width="100%"
+       height="100%"
+       x="0%"
+       y="0%"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix2" />
+    </filter>
+    <mask
+       id="mask0">
+      <g
+         filter="url(#alpha)"
+         id="g7">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.301961"
+           id="rect5" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip1">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect10" />
+    </clipPath>
+    <g
+       id="surface5"
+       clip-path="url(#clip1)">
+      <path
+         style="fill:rgb(4.313725%,4.313725%,4.313725%)"
+         d="M 360.75 347.769531 L 360.75 42.722656 C 360.75 33.761719 353.484375 26.496094 344.523438 26.496094 L 39.476562 26.496094 C 30.515625 26.496094 23.25 33.761719 23.25 42.722656 L 23.25 347.769531 C 23.25 356.734375 30.515625 363.996094 39.476562 363.996094 L 344.523438 363.996094 C 353.484375 363.996094 360.75 356.734375 360.75 347.769531 Z M 360.75 347.769531"
+         id="path13" />
+    </g>
+    <mask
+       id="mask1">
+      <g
+         filter="url(#alpha)"
+         id="g18">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"
+           id="rect16" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip2">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect21" />
+    </clipPath>
+    <g
+       id="surface8"
+       clip-path="url(#clip2)">
+      <path
+         style="fill:rgb(0%,0%,0%)"
+         d="M 295.847656 71.929688 L 295.847656 84.910156 L 347.769531 84.910156 L 347.769531 71.929688 Z M 295.847656 97.890625 L 295.847656 110.871094 L 347.769531 110.871094 L 347.769531 97.890625 Z M 295.847656 123.851562 L 295.847656 136.832031 L 347.769531 136.832031 L 347.769531 123.851562 Z M 295.847656 149.8125 L 295.847656 162.792969 L 347.769531 162.792969 L 347.769531 149.8125 Z M 295.847656 175.773438 L 295.847656 188.753906 L 347.769531 188.753906 L 347.769531 175.773438 Z M 295.847656 201.734375 L 295.847656 214.714844 L 347.769531 214.714844 L 347.769531 201.734375 Z M 52.457031 266.640625 C 43.46875 266.640625 36.230469 273.875 36.230469 282.867188 L 36.230469 328.296875 C 36.230469 337.285156 43.46875 344.523438 52.457031 344.523438 L 162.792969 344.523438 C 171.78125 344.523438 179.019531 337.285156 179.019531 328.296875 L 179.019531 282.867188 C 179.019531 273.875 171.78125 266.640625 162.792969 266.640625 Z M 221.207031 266.640625 C 212.21875 266.640625 204.980469 273.875 204.980469 282.867188 L 204.980469 328.296875 C 204.980469 337.285156 212.21875 344.523438 221.207031 344.523438 L 331.542969 344.523438 C 340.53125 344.523438 347.769531 337.285156 347.769531 328.296875 L 347.769531 282.867188 C 347.769531 273.875 340.53125 266.640625 331.542969 266.640625 Z M 221.207031 266.640625"
+         id="path24" />
+    </g>
+    <mask
+       id="mask2">
+      <g
+         filter="url(#alpha)"
+         id="g29">
+        <rect
+           width="384"
+           height="384"
+           x="0"
+           y="0"
+           style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"
+           id="rect27" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip3">
+      <rect
+         width="384"
+         height="384"
+         x="0"
+         y="0"
+         id="rect32" />
+    </clipPath>
+    <g
+       id="surface11"
+       clip-path="url(#clip3)">
+      <path
+         style="fill:rgb(100%,100%,100%)"
+         d="M 39.476562 20.003906 C 30.488281 20.003906 23.25 27.242188 23.25 36.230469 L 23.25 42.722656 C 23.25 33.730469 30.488281 26.496094 39.476562 26.496094 L 344.523438 26.496094 C 353.511719 26.496094 360.75 33.730469 360.75 42.722656 L 360.75 36.230469 C 360.75 27.242188 353.511719 20.003906 344.523438 20.003906 Z M 39.476562 20.003906"
+         id="path35" />
+    </g>
+  </defs>
+  <g
+     id="g48">
+    <use
+       mask="url(#mask0)"
+       xlink:href="#surface5"
+       id="use40" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1"
+       d="M 360.75 341.277344 L 360.75 36.230469 C 360.75 27.265625 353.484375 20.003906 344.523438 20.003906 L 39.476562 20.003906 C 30.515625 20.003906 23.25 27.265625 23.25 36.230469 L 23.25 341.277344 C 23.25 350.238281 30.515625 357.503906 39.476562 357.503906 L 344.523438 357.503906 C 353.484375 357.503906 360.75 350.238281 360.75 341.277344 Z M 360.75 341.277344"
+       id="path42" />
+    <use
+       mask="url(#mask1)"
+       xlink:href="#surface8"
+       id="use44" />
+    <use
+       mask="url(#mask2)"
+       xlink:href="#surface11"
+       id="use46" />
+  </g>
+</svg>

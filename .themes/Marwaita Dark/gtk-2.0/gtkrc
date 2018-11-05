@@ -1,0 +1,13 @@
+#
+#
+# Copyright (C) 2016-2018 Darkomarko42 <darkomarko42@outlook.com>
+#
+#
+
+#
+# Imports
+#
+include "colors.rc"
+include "common.rc"
+include "3rd-party.rc"
+include "menubar-toolbar/menubar-toolbar.rc"
